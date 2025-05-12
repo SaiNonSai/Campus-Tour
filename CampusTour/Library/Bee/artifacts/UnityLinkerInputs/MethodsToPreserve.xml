@@ -1,0 +1,18 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Exit">
+			<method name="QuitApplication"/>
+		</type>
+		<type fullname="RoomSelection">
+			<method name="SetDestination"/>
+		</type>
+		<type fullname="TimetableLinkOpener">
+			<method name="OpenTimetable"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>
