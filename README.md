@@ -15,4 +15,4 @@ A Unity-based first-person 3D campus navigation experience designed to help user
 ## How to Run
 1. Download or clone this repository  
 2. Open the **Build** folder  
-3. Run `CampusTour.exe` 
+3. Run `My project.exe` 
