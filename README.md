@@ -13,6 +13,6 @@ A Unity-based first-person 3D campus navigation experience designed to help user
 - C#
 
 ## How to Run
-1. Open the project in Unity Hub
-2. Load the main scene
-3. Press Play
+1. Download or clone this repository  
+2. Open the **Build** folder  
+3. Run `CampusTour.exe` 
